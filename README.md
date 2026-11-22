@@ -14,6 +14,12 @@ A MotusGlove investiga o uso de um conjunto óptico construído pela equipe para
 
 O painel mostra o sinal bruto e a flexão relativa de indicador, médio, anelar e mindinho. A calibração usa duas posições escolhidas pelo usuário, 0% com os dedos esticados e 100% com os dedos dobrados. A porcentagem expressa a posição dentro dessa faixa de referência. A medição de ângulo em graus e a precisão do sensor ainda precisam de validação.
 
+## Origem e licença
+
+O MotusGlove foi desenvolvido em equipe como projeto de Conectividade em Sistemas Ciberfísicos na PUCPR. O repositório original está em [Luup2177/MotusGlove-esp32](https://github.com/Luup2177/MotusGlove-esp32). As contribuições de cada integrante estão listadas na seção [Equipe](#equipe).
+
+O projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE).
+
 ## Arquitetura
 
 ```mermaid
